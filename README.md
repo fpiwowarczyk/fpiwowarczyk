@@ -15,6 +15,8 @@
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rivit98)
+
+![Visitor Count](https://profile-counter.glitch.me/fpiwowarczyk/count.svg)
 <!--
 **fpiwowarczyk/fpiwowarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
