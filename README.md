@@ -4,7 +4,7 @@
 📫 How to reach me :&nbsp;
 [![Linkedin: Filip Piwowarczyk](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/filip-piwowarczyk-065792180/)](https://www.linkedin.com/in/filip-piwowarczyk-065792180/)&nbsp;
 [![Gmail: filip.piwowarczyk1997@gmail.com](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:filip.piwowarczyk1997@gmail.com)](mailto:filip.piwowarczyk1997@gmail.com)&nbsp;
-[![Github: rivit98](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/fpiwowarczyk)](https://github.com/fpiwowarczyk) \
+[![Github: fpiwowarczyk](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/fpiwowarczyk)](https://github.com/fpiwowarczyk) \
 ⚡ Fun fact: Huge fan of ants and cycling
 
 📊 Github stats:
@@ -14,7 +14,7 @@
 <!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rivit98)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
 
 ![Visitor Count](https://profile-counter.glitch.me/fpiwowarczyk/count.svg)
 <!--
