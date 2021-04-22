@@ -6,7 +6,7 @@
 [![Gmail: filip.piwowarczyk1997@gmail.com](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:filip.piwowarczyk1997@gmail.com)](mailto:filip.piwowarczyk1997@gmail.com)&nbsp;
 [![Github: fpiwowarczyk](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/fpiwowarczyk)](https://github.com/fpiwowarczyk) \
 ⚡ Fun fact: Huge fan of ants and cycling \
-:star: Im intrested in: Algorithms, Security and Blockchain technology 
+:star: Im intrested in: Algorithms, Security and Blockchain technology \
 📊 Github stats:
 
 <p>
