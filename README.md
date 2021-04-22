@@ -8,7 +8,7 @@
 ⚡ Fun fact: Huge fan of ants and cycling
 
 📊 Github stats:
-
+:star: Im intrested in: Algorithms, Security and Blockchain technology 
 <p>
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
 <!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
