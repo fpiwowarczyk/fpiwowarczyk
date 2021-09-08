@@ -16,17 +16,6 @@
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
-<!--
-**fpiwowarczyk/fpiwowarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-...
-- 😄 Pronouns: ...
-
--->
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=radical">
+    </td>
