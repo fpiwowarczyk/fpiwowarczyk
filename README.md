@@ -16,7 +16,9 @@ You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
 <!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
 </p>
+
 :mag: About my github frequency:
+
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry">
 </p>
