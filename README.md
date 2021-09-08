@@ -14,8 +14,9 @@
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
 <!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
 </p>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry">
+</td>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=radical">
-    </td>
