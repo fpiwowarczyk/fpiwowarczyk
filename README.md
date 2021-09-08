@@ -1,5 +1,7 @@
 ### Hi, I'm Filip 👋
 
+You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)\ 
+
 🎓 Last semester of Masters at Computer Science at Poznan University of Technology \
 🔭 I’m currently learning alot about cyber sec \
 📫 How to reach me :&nbsp;
@@ -14,9 +16,10 @@
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
 <!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
 </p>
-<td align="center">
+About my github frequency:
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry">
-</td>
+</p>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
+
