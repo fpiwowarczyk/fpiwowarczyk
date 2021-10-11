@@ -2,8 +2,8 @@
 
 You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
 
-🎓 Last semester of Masters at Computer Science at Poznan University of Technology \
-🔭 I’m currently working on visulization of sorting algorithms project \
+🎓 Master of Computer Science at Poznan University of Technology \
+🔭 I’m learining security stuff and writing my own blog \
 📫 How to reach me :&nbsp;
 [![Linkedin: Filip Piwowarczyk](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/filip-piwowarczyk-065792180/)](https://www.linkedin.com/in/filip-piwowarczyk-065792180/)&nbsp;
 [![Gmail: filip.piwowarczyk1997@gmail.com](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:filip.piwowarczyk1997@gmail.com)](mailto:filip.piwowarczyk1997@gmail.com)&nbsp;
