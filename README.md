@@ -12,26 +12,16 @@ You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_
 :star: Im intrested in: Algorithms, Security and Blockchain technology \
 📊 Github stats:
 
-<p>
-<img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
-<!-- <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&layout=compact&theme=blueberry"/> -->
-</p>
+<td>
+  <p>
+    <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry"> 
+  </p>
+</td>
+<td>
+  <p>
 
-:mag: About my github frequency:
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry">
-</p>
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+  </p>
+</td>
 
 
