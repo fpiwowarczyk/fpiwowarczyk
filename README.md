@@ -23,5 +23,15 @@ You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry">
 </p>
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 
