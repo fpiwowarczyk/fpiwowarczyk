@@ -1,6 +1,4 @@
-### Hi, I'm Filip 👋
-
-You are my visitor: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
+### Hi, I'm Filip 👋 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
 
 🎓 Master of Computer Science at Poznan University of Technology \
 🔭 I’m learining security stuff and writing my own blog \
