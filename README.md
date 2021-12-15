@@ -1,7 +1,7 @@
 ### Hi, I'm Filip 👋 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fpiwowarczyk)
 
 🎓 Master of Computer Science at Poznan University of Technology \
-🔭 Currently i'm having fun after me masters, playing codding game, wargames on OverTheWire and trying to play ctf's \
+🔭 Currently i'm mastering my react skills and learn cloud stuff \
 📫 How to reach me :&nbsp;
 [![Linkedin: Filip Piwowarczyk](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/filip-piwowarczyk-065792180/)](https://www.linkedin.com/in/filip-piwowarczyk-065792180/)&nbsp;
 [![Gmail: filip.piwowarczyk1997@gmail.com](https://img.shields.io/badge/-fpiwowarczyk-blue?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:filip.piwowarczyk1997@gmail.com)](mailto:filip.piwowarczyk1997@gmail.com)&nbsp;
