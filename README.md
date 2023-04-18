@@ -12,7 +12,7 @@
 
 <td>
   <p>
-    <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&count_private=true&show_icons=true&theme=blueberry"/>
+    <img allign="right" src="https://github-readme-stats.vercel.app/api?username=fpiwowarczyk&show_icons=true&theme=blueberry"/>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpiwowarczyk&&hide=SCSS,CSS,LESS,SHELL,HTML,Makefile,Vim_script&&langs_count=8&line_height=35&theme=blueberry" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fpiwowarczyk&theme=blueberry"> 
   </p>
